@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christophe/cpp/Projects_Windows/Doodle_Classifier/Doodle_Classifier/NeuralNetwork/Activation.h
+armadillo
+-
+
+/home/christophe/cpp/Projects_Windows/Doodle_Classifier/Doodle_Classifier/NeuralNetwork/ReseauNeuronal.cpp
+ReseauNeuronal.h
+/home/christophe/cpp/Projects_Windows/Doodle_Classifier/Doodle_Classifier/NeuralNetwork/ReseauNeuronal.h
+algorithm
+-
+
+/home/christophe/cpp/Projects_Windows/Doodle_Classifier/Doodle_Classifier/NeuralNetwork/ReseauNeuronal.h
+armadillo
+-
+Activation.h
+/home/christophe/cpp/Projects_Windows/Doodle_Classifier/Doodle_Classifier/NeuralNetwork/Activation.h
+
